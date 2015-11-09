@@ -4,8 +4,8 @@
 [![Build Status](https://travis-ci.org/shinnn/real-executable-paths-callback.svg?branch=master)](https://travis-ci.org/shinnn/real-executable-paths-callback)
 [![Build status](https://ci.appveyor.com/api/projects/status/7b3tpi0ti2xyc5on/branch/master?svg=true)](https://ci.appveyor.com/project/ShinnosukeWatanabe/real-executable-paths-callback/branch/master)
 [![Coverage Status](https://img.shields.io/coveralls/shinnn/real-executable-paths-callback.svg)](https://coveralls.io/github/shinnn/real-executable-paths-callback)
-[![Dependency Status](https://img.shields.io/david/shinnn/real-executable-paths-callback.svg?label=deps)](https://david-dm.org/shinnn/real-executable-paths-callback)
-[![devDependency Status](https://img.shields.io/david/dev/shinnn/real-executable-paths-callback.svg?label=devDeps)](https://david-dm.org/shinnn/real-executable-paths-callback#info=devDependencies)
+[![Dependency Status](https://david-dm.org/shinnn/real-executable-paths-callback.svg)](https://david-dm.org/shinnn/real-executable-paths-callback)
+[![devDependency Status](https://david-dm.org/shinnn/real-executable-paths-callback/dev-status.svg)](https://david-dm.org/shinnn/real-executable-paths-callback#info=devDependencies)
 
 [Callback](http://thenodeway.io/posts/understanding-error-first-callbacks/)-style version of [real-executable-paths]:
 
